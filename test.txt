@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<title>THIS IS A WEBPAGE</title>
+</head>
+<body>
+<h1>NAGOLU TEJA</h1><br>
+<h1 style="color:green">TEJA</h1>
+<h2> styles</h2>
+<h4><h style ="color:red"> I want to make a sentence in red</h> <b> I want to make a sentence in bold</b> <emp><br>
+I want to make a sentence in emphasis</emp> <small> I want to make a sentence in small letters</small><br>
+<strike>I want to strike a sentence</strike> <i>I want to make a sentence in italic</i><br><br><h4>
+<h2><u> <b style="color:red">The Street Lawyers</b></u><small><i style="color:green"><u> John Grisham</i></u></small></h2>
+<p>One particular book which is recommended reading is <u>The Street Lawyer</u> by <u>John Grisham</u>. This book is<br>
+about a lawyer who begins re-evaluating his priorities in life when a bad incident occurs within his law firm. <br>
+Consequently, he becomes acquainted with the inner city streets, and realizes the harsh existence <br>
+of the homeless, and vows to give them a chance in the courts. <u>The Street Lawyer </u>is a<i><b> great </i></b>book. It is<br>
+<i><b> well written </i></b>and<i><b> interesting</i></b>. Other books by <u>John Grisham</u> include <u>The Firm</u>, <u>The Pelican Brief</u>, and <u>The Client</u>.<br><br>
+<h> TABLE</h>
+<table border="1">
+<tr>
+<th>Unalphabetized List</th>
+<th>Alphabetized List</th>
+</tr>
+<tr><td>bill<sub>3</sub></td><td>Andy</td></tr>
+<tr><td>Roger<sub>5</sub></td><td>Anna</td></tr>
+<tr><td>Sandra<sub>6</sub></td><td>Bill</td></tr>
+<tr><td>Stacy<sub>7</sub></td><td>jane</td></tr>
+<tr><td>William<sub>10</sub></td><td>Roger</td></tr>
+<tr><td>Thomas<sub>8</sub></td><td>Sandra</td></tr>
+<tr><td>Wendy<sub>9</sub></td><td>Stacy</td></tr>
+<tr><td>Jane<sub>4</sub></td><td>Thomas</td></tr>
+<tr><td>Andy<sub>1</sub></td><td>Wendy</td></tr>
+<tr><td>Anna<sub>2</sub></td><td>Willium</td></tr>
+</table>
+<h1>Unalphabetized List</h1>
+bill<sub>3</sub><br>
+Roger<sub>5</sub><br>
+Sandra<sub>6</sub><br>
+Stacy<sub>7</sub><br>
+William<sub>10</sub><br>
+Thomas<sub>8</sub><br>
+Wendy<sub>9</sub><br>
+Jane<sub>4</sub><br>
+Andy<sub>1</sub><br>
+Anna<sub>2</sub><br>
+<h1> Alphabetized List</h1><br>
+Andy<br>
+Anna<br>
+Bill<br>
+Jane<br>
+Roger<br>
+Sandra<br>
+Stacy<br>
+Thomas<br>
+Wendy<br>
+William<br><br><br>
+<h2> Links to other tabs</h2>
+<a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwivqPu30I_zAhXnmGYCHTB-AJ4YABABGgJzbQ&ae=2&ohost=www.google.com&cid=CAASEuRowfwVRXtnLp3uChdnrd3Vzg&sig=AOD64_3WYra0a6CHZkB593CaxZV_-7weDA&q&adurl&ved=2ahUKEwiRpfO30I_zAhUu63MBHQrQCq4Q0Qx6BAgEEAE">go to google</a><br>
+<a href="https://in.mail.yahoo.com/">go to yahoo</a><br>
+<a href="https://en.wikipedia.org/wiki/AltaVista"> go to altavista</a><br>
+<a href="https://www.lycos.com/">go to lycos</a><br>
+<h2> link through picture</h2><br>
+<a href="https://lms.sonata-software.com/course/view.php?id=390">
+<img src="https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823__340.jpg" width="200px:hieght:200"></a>
+</body>
+</html>
